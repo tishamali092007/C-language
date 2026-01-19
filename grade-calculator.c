@@ -11,7 +11,7 @@ int main(){
           (num >= 70)? 'C':
           (num >= 60)? 'D':
           (num >= 50)? 'E':'F';
-    printf("your grade is %c.",grade);
+    printf("your grade is %c-",grade);
 
     // step 2 switch case
 
